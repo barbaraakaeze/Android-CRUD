@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1083997353823",
+    "firebase_url": "https://barbaraproject-bff53.firebaseio.com",
+    "project_id": "barbaraproject-bff53",
+    "storage_bucket": "barbaraproject-bff53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083997353823:android:cdc7ae631b1266c6",
+        "android_client_info": {
+          "package_name": "com.example.barbaraakaeze.barbara_dexada_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083997353823-t4kqchatbouhm6bj89n6u8ijjnt2ua31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barbaraakaeze.barbara_dexada_project",
+            "certificate_hash": "4FE90E8AEE7B2DA01DB5907CEDC70F9A4A941CA9"
+          }
+        },
+        {
+          "client_id": "1083997353823-akk1a6nf0ju5k4ouho8ctke3ibqag2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jIHHtAII8c41ceKDKJj3UE4zmMLBYHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083997353823-akk1a6nf0ju5k4ouho8ctke3ibqag2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
